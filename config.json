@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authsalidate",
+        "uuid": 19214624,
+        "checksum": "4qsv5l"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
